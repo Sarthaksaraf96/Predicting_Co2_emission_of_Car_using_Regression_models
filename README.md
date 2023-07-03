@@ -1,4 +1,4 @@
-# Predicting_Co2_emissiono_of-_Car_using_Regression-
+# Predicting_Co2_emission_of_Car_using_Regression_models-
 ![Cars-With-Lowest-CO2-Emissions-Featured-Image](https://github.com/Sarthaksaraf96/Predicting_Co2_emissiono_of-_Car_using_Regression-/assets/132260196/ecf62cf4-4e9d-4c99-b863-68dcba73a93a)
 
 Working with Fuel Consuptions data of many cars, I have Tried 2 Regression models for predcition of CO2 emission with features such as ENGINESIZE','CYLINDERS','FUELCONSUMPTION_COMB','FUELCONSUMPTION_CITY','FUELCONSUMPTION_HWY','FUELCONSUMPTION_COMB_MPG' 
