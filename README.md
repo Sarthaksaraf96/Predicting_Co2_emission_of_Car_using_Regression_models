@@ -9,4 +9,6 @@ Output of SLR:
 2) Multiple Linear Regression : Multiple linear regression is a regression model that estimates the relationship between a quantitative dependent variable and two or more independent variables
 
 Comparing Output: 
-![image](https://github.com/Sarthaksaraf96/Predicting_Co2_emissiono_of-_Car_using_Regression-/assets/132260196/11b0dec1-454f-4a1f-97aa-150c8888d3ff)
+
+![image](https://github.com/Sarthaksaraf96/Predicting_Co2_emission_of_Car_using_Regression_models/assets/132260196/fd10be88-ad2c-4c3b-9219-24f27b4e1f37)
+
